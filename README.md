@@ -5,10 +5,10 @@
 - 🔭 I’m currently working remotely.  
   
 
-- 🌱 I’m currently developing trading bots.  
+- 🌱 I’m currently studying about trading and investing.  
   
 
-- ❓ Ask me about anything related to Shopify, Bots, Wallets, Dapps and related technologies  
+- ❓ Ask me about anything related to Shopify, Ecommerce, Wallets, Dapps and related technologies  
   
 
 - ⚡ Fun fact: I like making friends(developers)  
