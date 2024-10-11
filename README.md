@@ -1,6 +1,6 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://github.com/happylucktomorrow/happylucktomorrow/blob/main/api.svg" /></a><br>
 
-### About Me
+<h1> About me <a href="#-about-me--"><img src = "https://github.com/happylucktomorrow/happylucktomorrow/blob/main/skill.gif" width = 32px></a> </h1>
 
 🔭 I’m currently working remotely—my office is wherever my Wi-Fi is strong and my snacks are plentiful!
 
@@ -11,7 +11,7 @@
 ⚡ Fun fact: I love making friends (and collecting talents like Pokémon). Gotta catch 'em all!  
   
 
-<h1>   My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://github.com/happylucktomorrow/happylucktomorrow/blob/main/skill.gif" width = 32px></a> </h1>
 
 
 <div align="left">
