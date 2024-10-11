@@ -1,7 +1,5 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://github.com/happylucktomorrow/happylucktomorrow/blob/main/api.svg" /></a><br>
 
-<h2 align="center">Hi 👋! Happy Luck Tomorrow</h2>
-
 ###
 
 - 🔭 I’m currently working remotely.  
@@ -18,7 +16,9 @@
 
 <br/>  
 
-###
+
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
