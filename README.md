@@ -1,23 +1,17 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://github.com/happylucktomorrow/happylucktomorrow/blob/main/api.svg" /></a><br>
 
-###
+### About Me
 
-- 🔭 I’m currently working remotely.  
+🔭 I’m currently working remotely—my office is wherever my Wi-Fi is strong and my snacks are plentiful!
+
+🌱 I’m diving into the world of trading and investing. My current strategy? Buy low, sell high, and hope for the best!
+
+❓ Got questions about cutting-edge technologies? Fire away! I promise I won't short-circuit... unless it's a power outage!
+
+⚡ Fun fact: I love making friends (and collecting talents like Pokémon). Gotta catch 'em all!  
   
 
-- 🌱 I’m currently studying about trading and investing.  
-  
-
-- ❓ Ask me about anything related to Shopify, Ecommerce, Wallets, Dapps and related technologies  
-  
-
-- ⚡ Fun fact: I like making friends(developers)  
-  
-
-<br/>  
-
-
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+<h1>   My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
 
 <div align="left">
