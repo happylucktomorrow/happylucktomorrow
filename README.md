@@ -153,6 +153,7 @@
   <img width="12" />
 </div>
 
+<br/>  <br/>  
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
 <br clear="both">
