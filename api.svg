@@ -1,8 +1,8 @@
 
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="120" viewBox="0 0 854 120">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="250" viewBox="0 0 854 250">
                 <style>
                         .text {
-						font-size: 70px;
+						font-size: 40px;
 						font-weight: 700;
 						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
 					}
@@ -11,12 +11,24 @@
 						font-weight: 500;
 						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
 					}
-                        
+                        .text, .desc {
+							animation: twinkling 4s ease-in-out infinite;
+						}@keyframes twinkling {
+						  40% { opacity: 1; }
+						  50% { opacity: 0.5; }
+						  60% { opacity: 1; }
+						  70% { opacity: 0.5; }
+						  80% { opacity: 1; }
+						};
                      </style>
-                    
+                    <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#2d00f7"/><stop offset="11%" stop-color="#6a00f4"/><stop offset="22%" stop-color="#8900f2"/><stop offset="33%" stop-color="#a100f2"/><stop offset="44%" stop-color="#b100e8"/><stop offset="55%" stop-color="#bc00dd"/><stop offset="66%" stop-color="#d100d1"/><stop offset="77%" stop-color="#db00b6"/><stop offset="88%" stop-color="#e500a4"/><stop offset="99%" stop-color="#f20089"/><stop offset="100%" stop-color="#f20089"/>
+              </linearGradient>
+            </defs>
          
-    <g transform="translate(427, 60) scale(1, 1) translate(-427, -60)">
-      <path d="" fill="#B897FF" opacity="0.4" >
+    <g transform="translate(427, 125) scale(1, 1) translate(-427, -125)">
+      <path d="" fill="url(#linear)" opacity="0.4" transform="scale (-1, 1)" transform-origin="center">
         <animate
             attributeName="d"
             dur="20s"
@@ -25,10 +37,10 @@
             calcmod="spline"
             keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
             begin="0s"
-            values="M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z;M0 0L 0 65Q 213.5 80 427 60T 854 50L 854 0 Z;M0 0L 0 85Q 213.5 55 427 85T 854 50L 854 0 Z;M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z">
+            values="M0 0L 0 170Q 213.5 210 427 180T 854 205L 854 0 Z;M0 0L 0 195Q 213.5 210 427 190T 854 180L 854 0 Z;M0 0L 0 215Q 213.5 185 427 215T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 210 427 180T 854 205L 854 0 Z">
         </animate>
       </path>
-      <path d="" fill="#B897FF" opacity="0.4" >
+      <path d="" fill="url(#linear)" opacity="0.4" transform="scale (-1, 1)" transform-origin="center">
         <animate
           attributeName="d"
           dur="20s"
@@ -37,13 +49,13 @@
           calcmod="spline"
           keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
           begin="-10s"
-          values="M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 40 427 40T 854 60L 854 0 Z;M0 0L 0 65Q 213.5 45 427 70T 854 85L 854 0 Z;M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z">
+          values="M0 0L 0 185Q 213.5 230 427 200T 854 210L 854 0 Z;M0 0L 0 200Q 213.5 170 427 170T 854 190L 854 0 Z;M0 0L 0 195Q 213.5 175 427 200T 854 215L 854 0 Z;M0 0L 0 185Q 213.5 230 427 200T 854 210L 854 0 Z">
         </animate>
       </path>
     </g>
                 
      
-    
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="45%" class="text" style="fill:#FFFFFF;" stroke="#none" stroke-width="1" >Hi 👋! Happy Luck Tomorrow</text>
                  
             </svg>
         
